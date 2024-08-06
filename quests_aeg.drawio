@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
+  <diagram name="Strona-1" id="Y-7ij9XycatPjdk119q_">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K3uyklWiUd7X3cECukyo-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="925" y="920.7999877929688" as="sourcePoint" />
+            <mxPoint x="924.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="920.7999877929688" as="sourcePoint" />
+            <mxPoint x="159.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lWqgRdorW4td0UPTbbB5-1" value="Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="145" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lWqgRdorW4td0UPTbbB5-2" value="You wake up in the morning. Beautiful, sunny day comes through the windows. But where is Grand??" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="42.5" y="140" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lWqgRdorW4td0UPTbbB5-3" target="K3uyklWiUd7X3cECukyo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lWqgRdorW4td0UPTbbB5-3" value="Quest 01. Find Grand" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="42.5" y="240" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-1" value="Grand (your Grandpa)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-2" value="Grandpa goes find some wild berries, fruits and nuts - good for memory and brain." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="140" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-3" value="Quest 01. Find Grand&lt;br&gt;Finished: Grand in the forest, near your home." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="790" y="240" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-7" target="lWqgRdorW4td0UPTbbB5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-7" value="Good opportunity to prepare small tutorial how to move (W,S,A,D, jump, look around, etc.) and make some actions (F)&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-10" target="K3uyklWiUd7X3cECukyo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-10" value="Quest 02. How to learn?&lt;br&gt;Start: Grand give advice about learning. Focus and sum up some berries, nuts." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="790" y="310" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-11" value="Quest 02: How to learn?&lt;br&gt;Finished: &lt;i&gt;Knowledge&lt;/i&gt;&amp;nbsp;level increase." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="310" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-13" value="Grand describe what is Knowledge and how to use it in life, because here, in the village, is safe but outside there are stupid little monsters who can change you to brainless puppet!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="420" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=1.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-13" target="K3uyklWiUd7X3cECukyo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-15" target="K3uyklWiUd7X3cECukyo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-15" value="Bar with &lt;i&gt;Knowledge&lt;/i&gt;&amp;nbsp;level appear on the Player panel." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="350" width="210" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

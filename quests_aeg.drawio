@@ -1,18 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Strona-1" id="Y-7ij9XycatPjdk119q_">
-    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K3uyklWiUd7X3cECukyo-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="925" y="920.7999877929688" as="sourcePoint" />
-            <mxPoint x="924.5" y="120" as="targetPoint" />
+            <mxPoint x="825" y="1800" as="sourcePoint" />
+            <mxPoint x="824.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K3uyklWiUd7X3cECukyo-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="920.7999877929688" as="sourcePoint" />
+            <mxPoint x="160" y="1800" as="sourcePoint" />
             <mxPoint x="159.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -29,13 +29,13 @@
           <mxGeometry x="42.5" y="240" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K3uyklWiUd7X3cECukyo-1" value="Grand (your Grandpa)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="30" width="30" height="60" as="geometry" />
+          <mxGeometry x="810" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K3uyklWiUd7X3cECukyo-2" value="Grandpa goes find some wild berries, fruits and nuts - good for memory and brain." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="140" width="250" height="100" as="geometry" />
+          <mxGeometry x="690" y="140" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K3uyklWiUd7X3cECukyo-3" value="Quest 01. Find Grand&lt;br&gt;Finished: Grand in the forest, near your home." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="790" y="240" width="250" height="50" as="geometry" />
+          <mxGeometry x="690" y="240" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K3uyklWiUd7X3cECukyo-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-7" target="lWqgRdorW4td0UPTbbB5-3">
           <mxGeometry relative="1" as="geometry" />
@@ -46,23 +46,61 @@
         <mxCell id="K3uyklWiUd7X3cECukyo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-10" target="K3uyklWiUd7X3cECukyo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K3uyklWiUd7X3cECukyo-10" value="Quest 02. How to learn?&lt;br&gt;Start: Grand give advice about learning. Focus and sum up some berries, nuts." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="790" y="310" width="250" height="50" as="geometry" />
+        <mxCell id="K3uyklWiUd7X3cECukyo-10" value="Quest 02. How to learn?&lt;br&gt;Start: Grand give advice about learning. Focus and add and subtract some berries, nuts." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="310" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K3uyklWiUd7X3cECukyo-11" value="Quest 02: How to learn?&lt;br&gt;Finished: &lt;i&gt;Knowledge&lt;/i&gt;&amp;nbsp;level increase." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="310" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K3uyklWiUd7X3cECukyo-13" value="Grand describe what is Knowledge and how to use it in life, because here, in the village, is safe but outside there are stupid little monsters who can change you to brainless puppet!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="420" width="250" height="100" as="geometry" />
+        <mxCell id="K3uyklWiUd7X3cECukyo-13" value="Grand describe what the Knowledge is and how to use it in life, because here, in the village, is safe but outside there are stupid little monsters who can change you to brainless puppet!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="420" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="K3uyklWiUd7X3cECukyo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=1.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-13" target="K3uyklWiUd7X3cECukyo-11">
+        <mxCell id="K3uyklWiUd7X3cECukyo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=1.072;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-13" target="K3uyklWiUd7X3cECukyo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3uyklWiUd7X3cECukyo-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-15" target="K3uyklWiUd7X3cECukyo-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3uyklWiUd7X3cECukyo-15" value="Bar with &lt;i&gt;Knowledge&lt;/i&gt;&amp;nbsp;level appear on the Player panel." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="510" y="350" width="210" height="100" as="geometry" />
+          <mxGeometry x="400" y="350" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-19" value="Lily (friend)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1454" y="1800.9410903033088" as="sourcePoint" />
+            <mxPoint x="1454.29" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-21" target="K3uyklWiUd7X3cECukyo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-21" value="Quest 03. Bird&#39;s problem.&lt;br&gt;Start: Lily found egg in the grass near tall trees and ask you for help. You can use Knowledge to lift carefully egg and find its mum." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="560" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-22" target="K3uyklWiUd7X3cECukyo-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="825" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-22" value="Grand will tell you how to use the Knowledge to lift small and big objects. That&#39;s depends on the complexity of calculations. For small objects operations on numbers up to 20 would be enough" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="690" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3uyklWiUd7X3cECukyo-24" target="K3uyklWiUd7X3cECukyo-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-24" value="Quest 03. Bird&#39;s problem.&lt;br&gt;Action: You saw nearby feathers and fur. Probably egg&#39;s mum fight with someone. You can find her several meters on that place in the cave. You must take her and the egg to the Grand." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="35" y="840" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K3uyklWiUd7X3cECukyo-26" value="Quest 03. Bird&#39;s problem.&lt;br&gt;Finished: Grand take care of bird and his egg. They have their own place in the wooden cabinet next to the house." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="990" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
